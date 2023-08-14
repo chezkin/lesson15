@@ -1,0 +1,15 @@
+amit ha gever,
+,sum of words is: 3,
+,gever ha amit,
+
+,amit ha gever,
+
+,sum of uniq words is: 3,
+
+,AMIT HA GEVER,
+
+,GEVER,
+
+,[object Object],[object Object],[object Object],
+
+
