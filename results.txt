@@ -1,5 +1,7 @@
 amit ha gever,
+
 ,sum of words is: 3,
+
 ,gever ha amit,
 
 ,amit ha gever,
